@@ -10,12 +10,12 @@
 #include <time.h>
 
 // WiFi credentials
-const char* ssid = "Ceejay";
-const char* password = "nopassword";
+const char* ssid = "*********";
+const char* password = "**************";
 
 // API endpoints
-const char* serverName = "https://meterryapis.onrender.com/esp/send_data";
-const char* serverResponse = "https://meterryapis.onrender.com/esp/get_device_mode";
+const char* serverName = "*******************************";
+const char* serverResponse = "***************************";
 
 // LCD Configuration
 #define I2C_SDA 21
